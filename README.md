@@ -1,9 +1,9 @@
-# **Among Us - The last crewmate**
+# **Among Us - The Last Crewmate**
 
 ## **Introduction**
 ---
 
-**Among Us - The last crewmate** is a game created and developped in 6 weeks by Gabriel Lepinay, Valentin Py, Paul Thiebault and Felix Stavonhagen.
+**Among Us - The Last Crewmate** is a game created and developped in 6 weeks by Gabriel Lepinay, Valentin Py, Paul Thiebault and Felix Stavonhagen.
 
 This is the MyRpg Epitech's project.
 
