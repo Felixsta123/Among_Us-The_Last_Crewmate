@@ -3,7 +3,7 @@
 ## **Introduction**
 ---
 
-**Among Us - The last crewmate** is a game created and developped by Gabriel Lepinay, Valentin Py, Paul Thiebault and Felix Stavonhagen.
+**Among Us - The last crewmate** is a game created and developped in 6 weeks by Gabriel Lepinay, Valentin Py, Paul Thiebault and Felix Stavonhagen.
 
 This is the MyRpg Epitech's project.
 
@@ -11,7 +11,7 @@ This is the MyRpg Epitech's project.
 ---
 - Installation
   - Download
-  - Compil an run the game
+  - Compile an run the game
 - Synopsis
 - How to play
 - Features
@@ -20,12 +20,12 @@ This is the MyRpg Epitech's project.
 ---
 1. Download
 
-Prerequies: You need to be on linux and have csfml installed.
+Prerequisites: You need to be on linux and have csfml installed.
 To download the game click on the green button on the top right of the repository.
 
 2. Compile the game and run it
  
-To compile the game use `make` and run it with `./my_rpg` use `./my_rpg -d` to launch with debug mode
+To compile the game use `make` and run it with `./my_rpg`. You can use `./my_rpg -d` to launch with debug mode
 
 3. Play
 
