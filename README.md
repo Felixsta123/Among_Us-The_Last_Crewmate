@@ -1,9 +1,9 @@
-# **Among Us - The last crewmate**
+# **Among Us - The Last Crewmate**
 
 ## **Introduction**
 ---
 
-**Among Us - The last crewmate** is a game created and developped by Gabriel Lepinay, Valentin Py, Paul Thiebault and Felix Stavonhagen.
+**Among Us - The Last Crewmate** is a game created and developped by [Gabriel Lepinay](https://github.com/lepinay-gabriel), [Valentin Py](https://github.com/ValentinPy1), [Paul Thiebault](https://github.com/PaulThblt) and [Felix Stavonhagen](https://github.com/Felixsta123).
 
 This is the MyRpg Epitech's project.
 
@@ -13,7 +13,7 @@ This is the MyRpg Epitech's project.
 ---
 - Installation
   - Download
-  - Compil an run the game
+  - Compile and run the game
 - Synopsis
 - How to play
 - Features
@@ -35,15 +35,20 @@ Have fun :)
 
 ## Synopsis
 ---
-In a final attempt to kill the last crewmate, the imposters crashed the ship. Now sole survivor of his team, RED has to find the lost vent located in the planet's core in a deperate attempt to vent to safety.
+*In a final attempt to kill the last crewmate, the imposters crashed the ship.*
+
+*Now sole survivor of his team, RED has to find the lost vent located in the planet's core in a deperate attempt to vent to safety.*
 
 <img src="./assets/github/screen1.png" alt="Title Screen">
 
 ## How to play
 ---
 Use `zqsd` or `arrows` to walk.
+
 Use `e` to interact.
+
 Use `space` to attack.
+
 Use `escape` to see stats and option.
 
 <img src="./assets/github/screen2.png" alt="Title Screen">
