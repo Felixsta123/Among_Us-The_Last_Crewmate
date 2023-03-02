@@ -22,7 +22,7 @@ This is the MyRpg Epitech's project.
 ---
 1. Download
 
-Prerequies: You need to be on linux and have csfml installed.
+Prerequisites: You need to be on linux and have csfml installed.
 To download the game click on the green button on the top right of the repository.
 
 2. Compile the game and run it
